@@ -23,7 +23,7 @@
                 <tr>
                     <td>1</td>
                     <td>26/07/2021</td>
-                    <td>my first.html</td>
+                    <td>first.html</td>
                     <td>introduction to html,my first html page</td>
                     <td>NO</td>
                     <td></td>
