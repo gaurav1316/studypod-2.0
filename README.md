@@ -24,7 +24,7 @@
                     <td>1</td>
                     <td>26/07/2021</td>
                     <td>my first html page</td>
-                    <td>CSS::external,internal,<br>inline stlye,comments</td>
+                    <td>introduction to html</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
