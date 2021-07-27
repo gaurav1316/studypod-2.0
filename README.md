@@ -23,16 +23,17 @@
                 <tr>
                     <td>1</td>
                     <td>26/07/2021</td>
-                    <td>my first html page</td>
-                    <td>introduction to html</td>
+                    <td>my first.html</td>
+                    <td>introduction to html,my first html page</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>2</td>
                     <td>27/07/2021</td>
-                    <td>coaching form</td>
-                    <td>html forms , table,tags etc.</td>
+                    <td>index.html</td>
+                    <td>html forms , table,tags etc.,coaching form
+                     </td>
                     <td>NO</td>
                     <td></td>
                 </tr>
