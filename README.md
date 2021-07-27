@@ -31,8 +31,8 @@
                 <tr>
                     <td>2</td>
                     <td>27/07/2021</td>
-                    <td></td>
-                    <td>Background image<br>box model(margin,padding,<br>border,box size)</td>
+                    <td>coaching form</td>
+                    <td>html forms , table,tags etc.</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
