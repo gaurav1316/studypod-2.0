@@ -49,7 +49,7 @@
                     <td>4</td>
                     <td>29/07/2021</td>
                     <td>formnew.html</td>
-                    <td>intrduction to css,what is css and my first ccs website abhi padh rha hu aaj raat ko sone se pahle tak padh lunga </td>
+                    <td>intrduction to css,what is css, my first ccs website abhi padh rha hu </td>
                     <td>NO</td>
                     <td></td>
                  </tr>    
