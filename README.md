@@ -20,47 +20,95 @@
                 <th width="350">Solution</th>
             </thead>
             <tbody style="color:green;">
-                <tr>
+                  <tr>
                     <td>1</td>
-                    <td>26/07/2021</td>
+                    <td>21/07/2021</td>
+                    <td>NO</td>
+                    <td>introduction to html</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                  <tr>
+                    <td>2</td>
+                    <td>22/07/2021</td>
                     <td>first.html</td>
-                    <td>introduction to html,my first html page</td>
+                    <td>my first html page</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                  <tr>
+                    <td>3</td>
+                    <td>23/07/2021</td>
+                    <td>NO</td>
+                    <td>uses of tags</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                  <tr>
+                    <td>4</td>
+                    <td>24/07/2021</td>
+                    <td>NO</td>
+                    <td>different type of tags</td>
+                    <td>NO</td>
+                    <td></td>
+                  <tr>
+                  <tr>
+                    <td>5</td>
+                    <td>25/07/2021</td>
+                    <td>NO</td>
+                    <td>table making</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
                 <tr>
-                    <td>2</td>
+                    <td>6</td>
+                    <td>26/07/2021</td>
+                    <td>NO</td>
+                    <td>head tags,seo tags</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>7</td>
                     <td>27/07/2021</td>
                     <td>index.html</td>
-                    <td>html forms , table,tags etc.,coaching form
+                    <td>html forms,coaching form
                      </td>
                     <td>NO</td>
                     <td></td>
                 </tr>
                  <tr>
-                    <td>3</td>
+                    <td>8</td>
                     <td>28/07/2021</td>
-                    <td>first.html</td>
-                    <td>modification of my first.html file , complete html</td>
+                    <td>NO</td>
+                    <td> complete html</td>
                     <td>NO</td>
                     <td></td>
                  </tr> 
                  <tr>
-                    <td>4</td>
+                    <td>9</td>
                     <td>29/07/2021</td>
                     <td>formnew.html</td>
+                    <td>modification of my index.html file </td>
+                    <td>NO</td>
+                    <td></td>
+                 </tr>
+                 <tr>
+                    <td>10</td>
+                    <td>30/07/2021</td>
+                    <td></td>
                     <td>intrduction to css,what is css </td>
                     <td>NO</td>
                     <td></td>
                  </tr>
                  <tr>
-                    <td>5</td>
-                    <td>30/07/2021</td>
+                    <td>11</td>
+                    <td>31/07/2021</td>
                     <td>second.html,chapter1_css,chapter1practice.pdf,chapter2css.pdf</td>
-                    <td>my first css website,practice test, colours and backgrounds, </td>
+                    <td>my first css website,practice test, colours and backgrounds</td>
                     <td>NO</td>
                     <td></td>
-                 </tr>    
+                </tr>
             </tbody>
         </table>
     </div>
