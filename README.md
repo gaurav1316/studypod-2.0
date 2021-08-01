@@ -113,7 +113,7 @@
                     <td>12</td>
                     <td>01/08/2021</td>
                     <td>NO</td>
-                    <td>my css box model</td>
+                    <td>css box model</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
