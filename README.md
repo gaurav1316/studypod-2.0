@@ -117,11 +117,19 @@
                     <td>NO</td>
                     <td></td>
                 </tr>
-                  <tr>
+                <tr>
                     <td>13</td>
                     <td>02/08/2021</td>
                     <td>NO</td>
                     <td>fonts and display</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>14</td>
+                    <td>03/08/2021</td>
+                    <td>NO</td>
+                    <td>positions and list,css flexbox</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
