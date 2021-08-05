@@ -136,8 +136,16 @@
                   <tr>
                     <td>15</td>
                     <td>04/08/2021</td>
-                    <td>boss thodi der me kar dunga </td>
+                    <td>no</td>
                     <td>css grid and media queries</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td>16</td>
+                    <td>05/08/2021</td>
+                    <td>no</td>
+                    <td>transforms ,transitions and animations</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
