@@ -149,6 +149,22 @@
                     <td>NO</td>
                     <td></td>
                 </tr>
+                 <tr>
+                    <td>17</td>
+                    <td>06/08/2021</td>
+                    <td>no</td>
+                    <td>project discussion</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td>18</td>
+                    <td>07/08/2021</td>
+                    <td>no</td>
+                    <td>project work</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
             </tbody>
         </table>
     </div>
