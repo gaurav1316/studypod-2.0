@@ -185,21 +185,21 @@
                     <td>21</td>
                     <td>10/08/2021</td>
                     <td>No</td>
-                    <td>no work due to fever/td>
+                    <td>no work due to fever</td>
                     <td></td>
                 </tr>
                  <tr>
                     <td>22</td>
                     <td>11/08/2021</td>
                     <td>No</td>
-                    <td>no work due to fever/td>
+                    <td>no work due to fever</td>
                     <td></td>
                 </tr>
                  <tr>
                     <td>23</td>
                     <td>12/08/2021</td>
                     <td>No</td>
-                    <td>no work due to fever/td>
+                    <td>no work due to fever</td>
                     <td></td>
                 </tr>
             </tbody>
