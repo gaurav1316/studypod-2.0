@@ -136,7 +136,7 @@
                   <tr>
                     <td>15</td>
                     <td>04/08/2021</td>
-                    <td>no</td>
+                    <td>No</td>
                     <td>css grid and media queries</td>
                     <td>NO</td>
                     <td></td>
@@ -144,7 +144,7 @@
                  <tr>
                     <td>16</td>
                     <td>05/08/2021</td>
-                    <td>no</td>
+                    <td>No</td>
                     <td>transforms ,transitions and animations</td>
                     <td>NO</td>
                     <td></td>
@@ -152,17 +152,54 @@
                  <tr>
                     <td>17</td>
                     <td>06/08/2021</td>
-                    <td>no</td>
-                    <td>project discussion</td>
+                    <td>No</td>
+                    <td>Miniproject discussion</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
                  <tr>
                     <td>18</td>
                     <td>07/08/2021</td>
-                    <td>no</td>
-                    <td>project work</td>
+                    <td>No</td>
+                    <td>Miniproject work</td>
                     <td>NO</td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td>19</td>
+                    <td>08/08/2021</td>
+                    <td>No</td>
+                    <td>miniproject work completed</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td>20</td>
+                    <td>09/08/2021</td>
+                    <td>No</td>
+                    <td>mainproject discussion</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td>21</td>
+                    <td>10/08/2021</td>
+                    <td>No</td>
+                    <td>no work due to fever/td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td>22</td>
+                    <td>11/08/2021</td>
+                    <td>No</td>
+                    <td>no work due to fever/td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td>23</td>
+                    <td>12/08/2021</td>
+                    <td>No</td>
+                    <td>no work due to fever/td>
                     <td></td>
                 </tr>
             </tbody>
