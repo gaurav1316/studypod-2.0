@@ -202,6 +202,13 @@
                     <td>no work due to fever</td>
                     <td></td>
                 </tr>
+                  <tr>
+                    <td>24</td>
+                    <td>13/08/2021</td>
+                    <td>No</td>
+                    <td>javascript started</td>
+                    <td></td>
+                </tr>
             </tbody>
         </table>
     </div>
