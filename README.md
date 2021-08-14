@@ -209,6 +209,13 @@
                     <td>javascript started</td>
                     <td></td>
                 </tr>
+                 <tr>
+                    <td>25</td>
+                    <td>14/08/2021</td>
+                    <td>No</td>
+                    <td>introduction to javascript </td>
+                    <td></td>
+                </tr>
             </tbody>
         </table>
     </div>
