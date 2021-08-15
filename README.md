@@ -216,6 +216,13 @@
                     <td>introduction to javascript </td>
                     <td></td>
                 </tr>
+                 <tr>
+                    <td>26</td>
+                    <td>15/08/2021</td>
+                    <td>No</td>
+                    <td>-t </td>
+                    <td></td>
+                </tr>
             </tbody>
         </table>
     </div>
