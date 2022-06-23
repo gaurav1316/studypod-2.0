@@ -12,10 +12,10 @@
         <caption style="font-size: 30px;"><b>STUDYPOD2.0 DAILY REPORT</b> </caption>
         <thead style="color:red;">
             <tr>
-                <th >S.No</th>
-                <th >Date</th>
-                <th >File Name</th>
-                <th >Task</th>
+                <th width="350">S.No</th>
+                <th width="350">Date</th>
+                <th width="350">File Name</th>
+                <th width="350">Task</th>
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
             </thead>
